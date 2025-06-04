@@ -3,13 +3,13 @@
 🎯 **Data Engineer**  
 📍 Based in Paris, France  
 📫 [doha.hajjou@gmail.com](mailto:doha.hajjou@gmail.com) | 📞 +33 751 26 99 68  
-🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/) | 🔗 [GitHub](https://github.com/dhajjou)
+🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/)
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate and results-driven **Data Engineer** with a solid foundation in full-stack development and a deep interest in data governance, cloud infrastructure, and predictive analytics. My journey spans from engineering data pipelines with Talend and Snowflake to building robust applications in Java, and diving deep into Azure cloud technologies.
+I'm a passionate and results-driven **Data Engineer** with a solid foundation in Cloud computing and a deep interest in data engineering, cloud infrastructure, and predictive analytics. My journey spans from engineering data pipelines with Talend and Snowflake to building analytics dashboards, and diving deep into Azure cloud technologies.
 
 I thrive in dynamic and collaborative environments, bringing analytical thinking, adaptability, and a structured approach to every project I take on.
 
@@ -17,7 +17,7 @@ I thrive in dynamic and collaborative environments, bringing analytical thinking
 
 ## 🛠️ Technical Skills
 
-- **Languages:** SQL (T-SQL, PL/SQL), Python (Pandas), Java, C/C++, C#, Visual Basic, VBA
+- **Languages:** SQL (T-SQL, PL/SQL), Python, Java, C/C++, C#, Visual Basic, VBA
 - **Web Development:** HTML5/CSS3, JavaScript, PHP, Bootstrap
 - **Databases:** Snowflake, SQL Server, MongoDB, PostgreSQL, MySQL
 - **ETL/BI Tools:** Talend, Informatica
@@ -69,16 +69,16 @@ Outside of work, I enjoy reading, painting, interior decorating, horseback ridin
 -------------------------------------------------------------------------------------------------------------------------------------
 # 👋 Bonjour, je suis Doha HAJJOU
 
-🎯 **Data Engineer | Développeuse Full Stack | Passionnée du Cloud**  
-📍 Basée en Île-de-France, France  
+🎯 **Data Engineer**  
+📍 Basée à Paris, France  
 📫 [doha.hajjou@gmail.com](mailto:doha.hajjou@gmail.com) | 📞 +33 751 26 99 68  
-🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/) | 🔗 [GitHub](https://github.com/dhajjou)
+🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/) 
 
 ---
 
 ## 👩‍💻 À propos de moi
 
-Je suis une **Data Engineer** passionnée, avec une solide base en développement full stack et un fort intérêt pour la gouvernance des données, le cloud et les modèles prédictifs. J’aime créer des pipelines de données robustes et documentés, explorer les nouvelles technologies, et résoudre des problèmes complexes de manière structurée.
+Je suis une **Data Engineer** passionnée, avec une solide base en développement full stack et un fort intérêt pour l'ingenerie des données, le cloud et les modèles prédictifs. J’aime créer des pipelines de données robustes et documentés, explorer les nouvelles technologies, et résoudre des problèmes complexes de manière structurée.
 
 Je m’épanouis dans les environnements collaboratifs qui valorisent l’analyse, l’autonomie et l’innovation.
 
@@ -86,7 +86,7 @@ Je m’épanouis dans les environnements collaboratifs qui valorisent l’analys
 
 ## 🛠️ Compétences Techniques
 
-- **Langages :** SQL (T-SQL, PL/SQL), Python (Pandas), Java, C/C++, C#, Visual Basic, VBA  
+- **Langages :** SQL (T-SQL, PL/SQL), Python, Java, C/C++, C#, Visual Basic, VBA  
 - **Développement Web :** HTML5/CSS3, JavaScript, PHP, Bootstrap  
 - **Bases de Données :** Snowflake, SQL Server, MongoDB, PostgreSQL, MySQL  
 - **Outils ETL/BI :** Talend, Informatica  
