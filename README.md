@@ -1,133 +1,80 @@
-# 👋 Hello, I'm Doha HAJJOU
+# Doha HAJJOU
 
-🎯 **Data Engineer**  
-📍 Based in Paris, France  
-📫 [doha.hajjou@gmail.com](mailto:doha.hajjou@gmail.com) | 📞 +33 751 26 99 68  
-🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/)
+🎓 Master 2 student in Data Engineering at EFREI Paris  
+🔍 Searching for a permanent job (CDI) — **available immediately**  
+📧 doha.hajjou@gmail.com  
+📞 +33 751 26 99 68  
+📍 Paris, Île-de-France
 
----
+🚀 Welcome to my GitHub repository! Here you'll find the projects I've worked on during my study period. 
+Feel free to explore and reach out if you have any questions or collaboration opportunities! 😊
 
-## 👩‍💻 About Me
+## 🧠 Professional Experience
 
-I'm a passionate and results-driven **Data Engineer** with a solid foundation in Cloud computing and a deep interest in data engineering, cloud infrastructure, and predictive analytics. My journey spans from engineering data pipelines with Talend and Snowflake to building analytics dashboards, and diving deep into Azure cloud technologies.
+**Manutan – Data Engineer (Apprenticeship)**  
+📍 Gonesse, Île-de-France  
+📅 Sep 2022 – Sep 2024  
 
-I thrive in dynamic and collaborative environments, bringing analytical thinking, adaptability, and a structured approach to every project I take on.
+- 🧪 Developed automated tests to validate data flows (Talend, Snowflake, Azure)  
+- 📥 Extracted and loaded XML data into Snowflake  
+- 📊 Mapped and analyzed customer/sales data from diverse sources  
+- 📘 Documented data governance connectors and profiled data with Informatica  
+- 📐 Created interface contracts and data models using PowerDesigner  
+- 🧠 Built and evaluated predictive models for web order behavior (Python, Pandas)  
+- 📅 Estimated workloads and planned deliverables using Microsoft Project  
+- 📄 Drafted technical and functional specifications for multiple projects  
 
----
+**Intern – Full Stack Developer (DPETLE)**  
+📍 Settat, Morocco  
+📅 Jul 2021 – Sep 2021  
+- 👩‍💻 Built an intern management app using Java & MySQL  
+- 🖥️ Diagnosed and configured workstations  
 
-## 🛠️ Technical Skills
+**Intern – Full Stack Developer (RADEEC)**  
+📍 Settat, Morocco  
+📅 Jul 2019 – Sep 2019  
+- 📦 Built a stock management tool with Excel/VBA  
+- 📝 Analyzed project files and corrected application bugs  
 
-- **Languages:** SQL (T-SQL, PL/SQL), Python, Java, C/C++, C#, Visual Basic, VBA
-- **Web Development:** HTML5/CSS3, JavaScript, PHP, Bootstrap
-- **Databases:** Snowflake, SQL Server, MongoDB, PostgreSQL, MySQL
-- **ETL/BI Tools:** Talend, Informatica
-- **Cloud & Tools:** Microsoft Azure, Git/GitHub/GitLab
-- **Modeling & Methods:** PowerDesigner, Merise, UML, Scrum, Agile
+## 🎓 Education
 
----
+🎓 **EFREI Paris**  
+Master’s in Data Engineering (Sep 2022 – Sep 2024)  
+[Program link](https://www.efrei.fr/wp-content/uploads/2022/02/Mastere-Data-Engineering-1.pdf)
 
-## 🚀 Experience Highlights
+🎓 **EMSI Casablanca**  
+Engineering Degree in Computer Science (Sep 2020 – Jul 2021)
 
-### 📌 Data Engineer @ Manutan  
-*Sep 2022 – Sep 2024, Île-de-France*  
-- Automated data validation tests (Talend, Snowflake, Azure)  
-- Developed ETL pipelines from XML to Snowflake  
-- Documented and profiled data for governance (Informatica)  
-- Built data models and interface contracts (PowerDesigner)  
-- Implemented predictive models on web orders (Python)  
-- Led technical and functional specifications, test plans, and workload estimations  
+🎓 **BTS Settat**  
+Diploma in Information Systems Development (Sep 2017 – Jul 2018)
 
-### 📌 Full Stack Developer Internships  
-- Created Java/MySQL intern management application  
-- Built inventory tools using Excel/VBA  
-- Debugged software and supported hardware deployments  
+## 🧾 Certifications
 
----
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
+- ✅ Microsoft Certified: Azure Data Engineer Associate (DP-203)  
+- 📚 Udemy:  
+  - Big Data & Data Science  
+  - Snowflake – Complete Guide  
+  - Data Governance Fundamentals  
+  - Talend for ETL/BI  
 
-## 📚 Education & Certifications
+## 🛠 Technical Skills
 
-- 🎓 Mastère Data Engineering — EFREI Paris (2022–2024)  
-- 🎓 Engineering in IT Systems — EMSI Casablanca  
-- 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)  
-- 🏅 Microsoft Certified: Azure Data Engineer (DP-203)  
-- 🎓 Udemy Certifications: Snowflake, Talend, Big Data & Data Science, Data Governance  
+- **Languages:** SQL (T-SQL, PL/SQL), Python , Java, C, C++, C#, VBA, Visual Basic  
+- **Web:** HTML5, CSS3, JavaScript, PHP, Bootstrap  
+- **Databases:** Snowflake, SQL Server, PostgreSQL, MongoDB, MySQL  
+- **ETL & BI:** Talend, Informatica  
+- **Cloud & Tools:** Microsoft Azure, Git, GitHub, GitLab  
+- **Modeling:** UML, Merise, PowerDesigner  
+- **Methods:** Agile, Scrum  
+- **Soft Skills:** Organization, teamwork, autonomy, critical thinking, adaptability
 
----
+## 🌍 Languages
 
-## ✨ Personal Touch
+🇫🇷 French – Fluent  
+🇬🇧 English – Fluent  
+🇦🇪 Arabic – Native
 
-Outside of work, I enjoy reading, painting, interior decorating, horseback riding, and music. I believe in lifelong learning and always strive to grow personally and professionally.
+## 🎨 Personal Interests
 
----
-
-> 💬 “Data is not just about numbers — it's about transforming knowledge into action.”
-
----
-
-📌 Check out my projects on GitHub and feel free to connect!
-
--------------------------------------------------------------------------------------------------------------------------------------
-# 👋 Bonjour, je suis Doha HAJJOU
-
-🎯 **Data Engineer**  
-📍 Basée à Paris, France  
-📫 [doha.hajjou@gmail.com](mailto:doha.hajjou@gmail.com) | 📞 +33 751 26 99 68  
-🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/) 
-
----
-
-## 👩‍💻 À propos de moi
-
-Je suis une **Data Engineer** passionnée, avec une solide base en développement full stack et un fort intérêt pour l'ingenerie des données, le cloud et les modèles prédictifs. J’aime créer des pipelines de données robustes et documentés, explorer les nouvelles technologies, et résoudre des problèmes complexes de manière structurée.
-
-Je m’épanouis dans les environnements collaboratifs qui valorisent l’analyse, l’autonomie et l’innovation.
-
----
-
-## 🛠️ Compétences Techniques
-
-- **Langages :** SQL (T-SQL, PL/SQL), Python, Java, C/C++, C#, Visual Basic, VBA  
-- **Développement Web :** HTML5/CSS3, JavaScript, PHP, Bootstrap  
-- **Bases de Données :** Snowflake, SQL Server, MongoDB, PostgreSQL, MySQL  
-- **Outils ETL/BI :** Talend, Informatica  
-- **Cloud & DevOps :** Microsoft Azure, Git, GitLab, GitHub  
-- **Modélisation & Méthodes :** UML, Merise, PowerDesigner, Scrum, Agile  
-
----
-
-## 🚀 Expériences Clés
-
-### 📌 Data Engineer @ Manutan  
-*Sept 2022 – Sept 2024, Île-de-France*  
-- Développement de tests automatisés de flux (Talend, Snowflake, Azure)  
-- Intégration de données XML vers Snowflake  
-- Création de modèles d’interfaces et contrats de données (PowerDesigner)  
-- Analyse prédictive sur les commandes web (Python)  
-- Rédaction des spécifications, plannings et cahiers de recette  
-
-### 📌 Stages en Développement Full Stack  
-- Création d’une application de gestion des stagiaires (Java, MySQL)  
-- Application de gestion de stock (Excel, VBA)  
-- Déploiement de postes informatiques et correction de bugs  
-
----
-
-## 🎓 Formation & Certifications
-
-- 🎓 Mastère Data Engineering — EFREI Paris (2022–2024)  
-- 🎓 Ingénierie des Systèmes d’Information — EMSI Casablanca  
-- 🏅 Microsoft Certified : Azure Fundamentals (AZ-900)  
-- 🏅 Microsoft Certified : Azure Data Engineer Associate (DP-203)  
-- 📚 Formations Udemy : Snowflake, Talend, Big Data, Gouvernance des données  
-
----
-
-## ✨ Centres d’intérêt
-
-Je suis passionnée par la lecture, la peinture, la musique, la décoration d’intérieur et l’équitation. J’aime apprendre continuellement et explorer les dernières innovations dans le monde des données.
-
----
-
-> 💬 “Les données ne sont pas que des chiffres — elles transforment la connaissance en action.”
-
-N’hésitez pas à parcourir mes projets sur GitHub et à me contacter !
+Reading · Music · Horseback riding · Painting · Interior Design
