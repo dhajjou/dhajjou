@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Doha HAJJOU
 
-🎯 **Data Engineer | Full Stack Developer | Cloud Enthusiast**  
-📍 Based in Île-de-France, France  
+🎯 **Data Engineer**  
+📍 Based in Paris, France  
 📫 [doha.hajjou@gmail.com](mailto:doha.hajjou@gmail.com) | 📞 +33 751 26 99 68  
 🔗 [LinkedIn](https://www.linkedin.com/in/doha-hajjou-209a40213/) | 🔗 [GitHub](https://github.com/dhajjou)
 
