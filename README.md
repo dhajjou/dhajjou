@@ -9,7 +9,7 @@
 🚀 Welcome to my GitHub repository! Here you'll find the projects I've worked on during my study period. 
 Feel free to explore and reach out if you have any questions or collaboration opportunities! 😊
 
-## 🧠 Professional Experience
+## 💼 Experience
 
 **Manutan – Data Engineer (Apprenticeship)**  
 📍 Gonesse, Île-de-France  
@@ -35,7 +35,7 @@ Feel free to explore and reach out if you have any questions or collaboration op
 📅 Jul 2019 – Sep 2019  
 - 📦 Built a stock management tool with Excel/VBA  
 - 📝 Analyzed project files and corrected application bugs  
-
+----------------------------------------------------------------------------------------------------
 ## 🎓 Education
 
 🎓 **EFREI Paris**  
