@@ -2,7 +2,7 @@
 
 La traduction française est ci-dessous. 👇
 
-🎓 Master's degree in Data Engineering from EFREI Paris 
+🎓 Master's degree in Data Engineering from EFREI Paris
 💼 Data Engineer specialized in data integration, modeling, and pipeline automation with Azure, Snowflake, Talend, and Python  
 🔍 Available immediately for a permanent position (CDI)
 📧 doha.hajjou@gmail.com  
