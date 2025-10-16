@@ -2,8 +2,9 @@
 
 La traduction française est ci-dessous. 👇
 
-🎓 Master 2 student in Data Engineering at EFREI Paris  
-🔍 Searching for a permanent job (CDI) — **available immediately**  
+🎓 Master's degree in Data Engineering from EFREI Paris 
+💼 Data Engineer specialized in data integration, modeling, and pipeline automation with Azure, Snowflake, Talend, and Python  
+🔍 Available immediately for a permanent position (CDI)
 📧 doha.hajjou@gmail.com  
 📞 +33 751 26 99 68  
 📍 Paris, Île-de-France
@@ -19,9 +20,10 @@ Feel free to explore and reach out if you have any questions or collaboration op
 
 **Manutan – Data Engineer (Apprenticeship)**  
 📍 Gonesse, Île-de-France  
-📅 Sep 2022 – Sep 2024  
+📅 Sep 2022 – Present
 
-- 🧪 Developed automated tests to validate data flows (Talend, Snowflake, Azure)  
+- 🧪 Designed and optimized data pipelines using Talend, Snowflake, and Azure Data Factory
+- 🧪 Developed automated tests to ensure data quality and reliability
 - 📥 Extracted and loaded XML data into Snowflake  
 - 📊 Mapped and analyzed customer/sales data from diverse sources  
 - 📘 Documented data governance connectors and profiled data with Informatica  
@@ -30,13 +32,13 @@ Feel free to explore and reach out if you have any questions or collaboration op
 - 📅 Estimated workloads and planned deliverables using Microsoft Project  
 - 📄 Drafted technical and functional specifications for multiple projects  
 
-**Intern – Full Stack Developer (DPETLE)**  
+**Full Stack Developer Intern – DPETLE**  
 📍 Settat, Morocco  
 📅 Jul 2021 – Sep 2021  
 - 👩‍💻 Built an intern management app using Java & MySQL  
 - 🖥️ Diagnosed and configured workstations  
 
-**Intern – Full Stack Developer (RADEEC)**  
+**Full Stack Developer Intern – RADEEC**  
 📍 Settat, Morocco  
 📅 Jul 2019 – Sep 2019  
 - 📦 Built a stock management tool with Excel/VBA  
@@ -60,8 +62,8 @@ Diploma in Information Systems Development (Sep 2017 – Jul 2018)
 
 ## 🧾 Certifications
 
-- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- ✅ Microsoft Certified: Azure Data Engineer Associate (DP-203)  
+- ✅ Microsoft Certified: Azure Data Engineer Associate (DP-203)
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 📚 Udemy:  
   - Big Data & Data Science  
   - Snowflake – Complete Guide  
@@ -104,7 +106,7 @@ Version Française
 
 # Doha HAJJOU
 
-🎓 Étudiante en Master 2 Ingénierie des Données à EFREI Paris  
+🎓 Diplômée d’un Mastère en Ingénierie des Données à EFREI Paris   
 🔍 À la recherche d’un emploi en CDI — **disponible immédiatement**  
 📧 doha.hajjou@gmail.com  
 📞 +33 751 26 99 68  
@@ -122,9 +124,10 @@ N'hésitez pas à explorer et à me contacter pour toute question ou opportunit�
 
 **Manutan – Data Engineer (en alternance)**  
 📍 Gonesse, Île-de-France  
-📅 Septembre 2022 – Septembre 2024  
+📅 Septembre 2022 – Présent 
 
-- 🧪 Développement de tests automatisés pour valider les flux de données (Talend, Snowflake, Azure)  
+- 🧪 Conception et optimisation de pipelines de données avec Talend, Snowflake et Azure Data Factory
+- 🧪 Développement de tests automatisés pour assurer la qualité et la cohérence des données
 - 📥 Extraction et chargement de données XML dans Snowflake  
 - 📊 Analyse et cartographie des données clients et ventes provenant de sources multiples  
 - 📘 Documentation des connecteurs de gouvernance des données et profiling avec Informatica  
@@ -165,8 +168,8 @@ BTS en Développement des Systèmes d’Information (Septembre 2017 – Juillet 
 
 ## 🧾 Certifications
 
-- ✅ Microsoft Certified : Azure Fundamentals (AZ-900)  
-- ✅ Microsoft Certified : Azure Data Engineer Associate (DP-203)  
+- ✅ Microsoft Certified : Azure Data Engineer Associate (DP-203)
+- ✅ Microsoft Certified : Azure Fundamentals (AZ-900)
 - 📚 Udemy :  
   - Big Data & Data Science  
   - Snowflake – Guide Complet  
@@ -184,7 +187,7 @@ BTS en Développement des Systèmes d’Information (Septembre 2017 – Juillet 
 - **Cloud & Outils :** Microsoft Azure, Git, GitHub, GitLab  
 - **Modélisation :** UML, Merise, PowerDesigner  
 - **Méthodes :** Agile, Scrum  
-- **Soft Skills :** Organisation, travail en équipe, autonomie, pensée critique, adaptabilité
+- **Soft Skills :** Organisation, travail en équipe, autonomie, adaptabilité, esprit analytique
 
 
 ----------------------------------------------------------------------------------------------------
