@@ -14,6 +14,8 @@ La traduction française est ci-dessous. 👇
 🚀 Welcome to my GitHub repository! Here you'll find a selection of my projects in Data Engineering, Cloud, and ETL automation. 
 Each project reflects my focus on building reliable, scalable, and efficient data solutions.
 
+![Doha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhajjou&show_icons=true&theme=default)
+
 ----------------------------------------------------------------------------------------------------
 
 ## 💼 Experience
