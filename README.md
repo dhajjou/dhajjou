@@ -2,9 +2,9 @@
 
 La traduction française est ci-dessous. 👇
 
-🎓 Master's degree in Data Engineering from EFREI Paris.
-💼 Data Engineer specialized in data integration, modeling, and pipeline automation with Azure, Snowflake, Talend, and Python. 
-🔍 **Available immediately for a permanent position (CDI).**
+🎓 Master's degree in Data Engineering from EFREI Paris.<br>
+💼 Data Engineer specialized in data integration, modeling, and pipeline automation with Azure, Snowflake, Talend, and Python.<br>
+🔍 **Available immediately for a permanent position (CDI).**<br>
 📧 doha.hajjou@gmail.com  
 📞 +33 751 26 99 68  
 📍 Paris, Île-de-France
@@ -106,9 +106,9 @@ Version Française
 
 # Doha HAJJOU
 
-🎓 Diplômée d’un Mastère en Ingénierie des Données à EFREI Paris.
-💼 Data Engineer spécialisée en intégration, modélisation et automatisation de pipelines sur Azure, Snowflake, Talend et Python. 
-🔍 **Disponible immédiatement pour un poste en CDI.**
+🎓 Diplômée d’un Mastère en Ingénierie des Données à EFREI Paris.<br>
+💼 Data Engineer spécialisée en intégration, modélisation et automatisation de pipelines sur Azure, Snowflake, Talend et Python.<br>
+🔍 **Disponible immédiatement pour un poste en CDI.**<br>
 📧 doha.hajjou@gmail.com  
 📞 +33 751 26 99 68  
 📍 Paris, Île-de-France
