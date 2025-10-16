@@ -2,23 +2,23 @@
 
 La traduction française est ci-dessous. 👇
 
-🎓 Master's degree in Data Engineering from EFREI Paris
-💼 Data Engineer specialized in data integration, modeling, and pipeline automation with Azure, Snowflake, Talend, and Python  
-🔍 Available immediately for a permanent position (CDI)
+🎓 Master's degree in Data Engineering from EFREI Paris.
+💼 Data Engineer specialized in data integration, modeling, and pipeline automation with Azure, Snowflake, Talend, and Python. 
+🔍 **Available immediately for a permanent position (CDI).**
 📧 doha.hajjou@gmail.com  
 📞 +33 751 26 99 68  
 📍 Paris, Île-de-France
 
 ----------------------------------------------------------------------------------------------------
 
-🚀 Welcome to my GitHub repository! Here you'll find the projects I've worked on during my study period. 
-Feel free to explore and reach out if you have any questions or collaboration opportunities! 😊
+🚀 Welcome to my GitHub repository! Here you'll find a selection of my projects in Data Engineering, Cloud, and ETL automation. 
+Each project reflects my focus on building reliable, scalable, and efficient data solutions.
 
 ----------------------------------------------------------------------------------------------------
 
 ## 💼 Experience
 
-**Manutan – Data Engineer (Apprenticeship)**  
+**Manutan – Data Engineer**  
 📍 Gonesse, Île-de-France  
 📅 Sep 2022 – Present
 
@@ -81,7 +81,7 @@ Diploma in Information Systems Development (Sep 2017 – Jul 2018)
 - **Cloud & Tools:** Microsoft Azure, Git, GitHub, GitLab  
 - **Modeling:** UML, Merise, PowerDesigner  
 - **Methods:** Agile, Scrum  
-- **Soft Skills:** Organization, teamwork, autonomy, critical thinking, adaptability
+- **Soft Skills:** Organization, teamwork, autonomy, analytical thinking, adaptability
 
 ----------------------------------------------------------------------------------------------------
 
@@ -106,8 +106,9 @@ Version Française
 
 # Doha HAJJOU
 
-🎓 Diplômée d’un Mastère en Ingénierie des Données à EFREI Paris   
-🔍 À la recherche d’un emploi en CDI — **disponible immédiatement**  
+🎓 Diplômée d’un Mastère en Ingénierie des Données à EFREI Paris.
+💼 Data Engineer spécialisée en intégration, modélisation et automatisation de pipelines sur Azure, Snowflake, Talend et Python. 
+🔍 **Disponible immédiatement pour un poste en CDI.**
 📧 doha.hajjou@gmail.com  
 📞 +33 751 26 99 68  
 📍 Paris, Île-de-France
@@ -115,8 +116,8 @@ Version Française
 ----------------------------------------------------------------------------------------------------
 
 🚀 Bienvenue sur mon profil GitHub !  
-Vous trouverez ici les projets que j’ai réalisés durant ma formation.  
-N'hésitez pas à explorer et à me contacter pour toute question ou opportunité de collaboration ! 😊
+Vous trouverez ici une sélection de mes projets en Data Engineering, Cloud et automatisation de flux de données.  
+Chaque projet illustre ma volonté de concevoir des solutions fiables, performantes et évolutives.
 
 ----------------------------------------------------------------------------------------------------
 
